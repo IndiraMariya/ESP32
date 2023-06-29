@@ -5,7 +5,7 @@
 
 # Pinout Diagram
 ## ESP32
-cid:image001.jpg@01D9A498.7D2C4DA0![image](https://github.com/IndiraMariya/ESP32/assets/82353064/75e4852e-f74e-477b-a9ad-12b1e1648977)
+![image](https://github.com/IndiraMariya/ESP32/assets/82353064/75e4852e-f74e-477b-a9ad-12b1e1648977)
 
 ## ESP32 to LCD
 <img width="1351" alt="image" src="https://github.com/IndiraMariya/ESP32/assets/82353064/549a2bba-702a-4cbe-99ce-e07f1754a522">
